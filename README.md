@@ -1,6 +1,8 @@
 # AI-Programming-Projects
 A collection of AI programming projects I completed during my intro to AI course Spring of 2024. 
 
+Each Folder includes A pdf file which covers the project objectives and overview. 
+
 Topics covered in this course include:
 
 Machine Learning and Artificial Intelligence:
